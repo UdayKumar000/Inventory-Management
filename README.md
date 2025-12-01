@@ -1,5 +1,4 @@
 # Inventory Management System API [Matarial](https://drive.google.com/drive/folders/1I5Eq8_lPv4PFglTmFF7GxTig3hDh1NDr?usp=drive_link)
-[Demo Video](https://drive.google.com/file/d/1jFbLcPSvwYXktzb_JCWoGdV_3sqs8JkQ/view?usp=drive_link)\
 [API Collection (JSON File)](https://drive.google.com/file/d/1dmoqX3FsJynZ6ukQbMsFt52qPEylwxEz/view?usp=drive_link)
 
 ### Tech Stack : Spring Boot/Java + SQL/MySQL
